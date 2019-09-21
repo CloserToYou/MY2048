@@ -1,5 +1,7 @@
 ## MY2048
 
+点击 [MY2048](https://closertoyou.github.io/MY2048/) 开始游戏，查看实现效果。
+
 ### 运用技术
 
 使用HTML，CSS搭建游戏UI，使用Javascript和JQuery编写游戏主逻辑和数据模块，实现简单动画效果。
